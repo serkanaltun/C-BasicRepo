@@ -34,7 +34,7 @@ int main() {
     }
     else if(karakter=='c'){
     printf("============================================================\n");
-    printf("\t    %d kilogram cilek %d tl yapiyor.\n",a,a*10);
+    printf("Kilogrami 7 tl den %d kilogram cilek %d tl yapiyor pamuk eller cebe :)  \n",a,a*7);
     }
 
 

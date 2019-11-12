@@ -2,10 +2,10 @@
 int main(){
 
 
-  char s[]="";
-  scanf("%s\n",&s);
-  printf("%s yazdigin sey bu\n",s );
-
+  char a[20];
+  printf("\nAdiniz nedir : ");
+  scanf("%s",a);
+  printf("\n Merhaba %s hos geldin.",a);
 
 
 
