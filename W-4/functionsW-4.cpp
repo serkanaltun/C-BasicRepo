@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 //EV CIZEN
-/*
+
 void cati(char harf){
 		printf("   %c   \n",harf);
 		printf("  %c %c  \n",harf,harf);
@@ -28,7 +28,7 @@ int main(){
 		katlar('s','a','n');
 	}
 }
-*/
+
 
 
 

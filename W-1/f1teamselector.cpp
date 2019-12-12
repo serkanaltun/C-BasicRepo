@@ -9,10 +9,10 @@ int main(){
     /*PROJENİN DEVAMI BURADAN DEVAM EDECEDK*/
   }
   else if(a=='h' || a=='H'){
-    puts("\"//AMG PETRONAS MOTORSPORTS\" takımı tam size göre.");
+    puts("\"//AMG PETRONAS MOTORSPORTS\" takimi tam size gore.");
   }
   else{
-    puts("Lütfen evet içn E harfini hayır için H harfini tuşlayınız !", );
+    puts("Lütfen evet içn E harfini hayır için H harfini tuşlayınız !");
   }
 
 }
