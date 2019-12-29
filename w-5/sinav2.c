@@ -9,7 +9,6 @@ for (i=0; i<15; i++) {
   else{
     tek = tek + array[i];
   }
-
 }
 printf("\nToplam/13: %f Tek / Cift: %f",(float)toplam/13,(float)cif/tek);
 }
@@ -22,4 +21,6 @@ r = (r*4)+1;
 printf("%d ",array[i]);
 }
 fonk(array);
+dosya(array);
+
 }
